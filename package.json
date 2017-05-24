@@ -1,6 +1,6 @@
 {
   "name": "url-match-patterns",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A module for testing URLs against Chrome and Firefox match patterns.",
   "main": "lib/index.js",
   "scripts": {
