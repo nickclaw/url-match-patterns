@@ -22,7 +22,6 @@
   "author": "Nicholas Clawson <nickclaw@gmail.com> (nickclaw.com)",
   "license": "MIT",
   "dependencies": {
-    "debug": "^2.2.0",
     "lodash": "^4.3.0"
   },
   "devDependencies": {
