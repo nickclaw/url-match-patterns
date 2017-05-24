@@ -1,4 +1,4 @@
-# url-match-patterns
+# url-match-patterns [![Build Status](https://travis-ci.org/nickclaw/url-match-patterns.svg?branch=master)](https://travis-ci.org/nickclaw/url-match-patterns)
 
 A node module for testing URLs against match patterns, as defined by
 [Google](https://developer.chrome.com/extensions/match_patterns) and
