@@ -1,7 +1,7 @@
 {
   "name": "url-match-patterns",
   "version": "0.1.0",
-  "description": "",
+  "description": "A module for testing URLs against Chrome and Firefox match patterns.",
   "main": "lib/index.js",
   "scripts": {
     "build": "rm -rf lib && babel src --out-dir lib",
@@ -18,7 +18,15 @@
   "bugs": {
     "url": "http://github.com/nickclaw/url-match-patterns/issues"
   },
-  "keywords": [],
+  "keywords": [
+    "match",
+    "patterns",
+    "chrome",
+    "firefox",
+    "extension",
+    "WebExtensions",
+    "url"
+  ],
   "author": "Nicholas Clawson <nickclaw@gmail.com> (nickclaw.com)",
   "license": "MIT",
   "dependencies": {
