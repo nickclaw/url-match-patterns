@@ -42,7 +42,7 @@ function createMatcher(pattern) {
   // check scheme
   if (parts.scheme === ALL_SCHEMES) {
     str += '(http|https|ftp|file)';
-  } else if (parts.scheme === '*') { // XXX
+  } else if (parts.scheme === '*') {
     str += '(http|https)';
   } else {
     str += parts.scheme;
